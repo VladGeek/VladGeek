@@ -10,7 +10,7 @@
 
 <h2 align="left" font-weight="bold"> About me</h2>
 - 👨‍💻 19yo based in Rome<br />
-- 📚 I'm currently studying Computer Science at Sapienza University of Rome
+- 📚 I'm currently studying Computer Science at <a href="https://www.uniroma1.it/en/pagina-strutturale/home">Sapienza University of Rome</a></p>
 
 
 <h3 align="left">Languages and Tools</h3>
