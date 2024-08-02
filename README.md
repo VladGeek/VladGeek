@@ -9,7 +9,7 @@
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 
 <h2 align="left" font-weight="bold"> About me</h2>
-- 👨‍💻 19yo based in Rome<br />
+- 👨‍💻 20yo based in Rome<br />
 - 📚 I'm currently studying Computer Science at <a href="https://www.uniroma1.it/en/pagina-strutturale/home">Sapienza University of Rome</a></p>
 
 
