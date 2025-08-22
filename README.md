@@ -11,7 +11,3 @@
 <h2 align="left" font-weight="bold"> About me</h2>
 - 👨‍💻 21yo based in Rome<br />
 - 📚 I'm currently studying Computer Science at <a href="https://www.uniroma1.it/en/pagina-strutturale/home">Sapienza University of Rome</a></p>
-
-
-<h3 align="left">Languages and Tools</h3>
-<p align="left"> <img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/> </p>
